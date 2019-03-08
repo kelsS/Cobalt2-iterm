@@ -1,5 +1,5 @@
 #
-# Cobalt2 Theme - https://github.com/wesbos/Cobalt2-iterm
+# Cobalt2 Theme Blastoff Edition - https://github.com/kelsS/Cobalt2-iterm-blastoff
 #
 # # README
 #
